@@ -1,4 +1,4 @@
-const sum = require('./sum');
+const sum = require('./sum.js');
 
 //1 - A função sum(a, b) retorna a soma do parâmetro a com o b
 // 1.1 Teste se o retorno de sum(4, 5) é 9
